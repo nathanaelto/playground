@@ -3,6 +3,10 @@
 ## Supports
 - [Doc PokéAPI](https://pokeapi.co/docs/v2)
 - [Doc SvelteKit](https://kit.svelte.dev/docs)
+- [Doc TailwindCSS](https://tailwindcss.com/docs/installation)
+
+### Aide
+- [Async component](https://svelte.dev/examples/await-blocks)
 
 ### Page d'accueil
 > Path : `/`
@@ -54,3 +58,13 @@ Exemple de carte :
 > Path : `/generation/{numGeneration}`
 
 On veut faire la même chose pour les générations, mais cette fois-ci, on veut afficher les régions de la génération sélectionnée.
+
+
+### Libs
+
+- [SvelteKit](https://tailwindcss.com/docs/guides/sveltekit)
+- [TailwindCSS with Svelte](https://tailwindcss.com/docs/guides/sveltekit)
+
+### Requêtes HTTP
+- [Axios](https://axios-http.com/docs/intro)
+- [Fetch with svelte](https://kit.svelte.dev/docs/web-standards#fetch-apis)
