@@ -11,18 +11,18 @@ Sur cette page, l'utilisateur doit pouvoir voir la liste des générations de Po
 
 #### Liste des régions
 
-| Nom    | Url                                    |
-|--------|----------------------------------------|
-| Kanto  | `https://pokeapi.co/api/v2/region/1/`  |
-| Johto  | `https://pokeapi.co/api/v2/region/2/`  |
-| Hoenn  | `https://pokeapi.co/api/v2/region/3/`  |
-| Sinnoh | `https://pokeapi.co/api/v2/region/4/`  |
-| Unys   | `https://pokeapi.co/api/v2/region/5/`  |
-| Kalos  | `https://pokeapi.co/api/v2/region/6/`  |
-| Alola  | `https://pokeapi.co/api/v2/region/7/`  |
-| Galar  | `https://pokeapi.co/api/v2/region/8/`  |
-| Hisui  | `https://pokeapi.co/api/v2/region/9/`  |
-| Paldea | `https://pokeapi.co/api/v2/region/10/` |
+| Nom    | Url                                  |
+|--------|--------------------------------------|
+| Kanto  | https://pokeapi.co/api/v2/region/1/  |
+| Johto  | https://pokeapi.co/api/v2/region/2/  |
+| Hoenn  | https://pokeapi.co/api/v2/region/3/  |
+| Sinnoh | https://pokeapi.co/api/v2/region/4/  |
+| Unys   | https://pokeapi.co/api/v2/region/5/  |
+| Kalos  | https://pokeapi.co/api/v2/region/6/  |
+| Alola  | https://pokeapi.co/api/v2/region/7/  |
+| Galar  | https://pokeapi.co/api/v2/region/8/  |
+| Hisui  | https://pokeapi.co/api/v2/region/9/  |
+| Paldea | https://pokeapi.co/api/v2/region/10 |
 
 ### Liste des générations
 | Nom             | Url                                     |
