@@ -1,0 +1,14 @@
+### Get all generations
+GET https://pokeapi.co/api/v2/generation
+
+### Get a generation by id
+GET https://pokeapi.co/api/v2/generation/1
+
+### Get all regions
+GET https://pokeapi.co/api/v2/region
+
+### Get a region by id
+GET https://pokeapi.co/api/v2/region/1
+
+### Get pokemon by id
+GET https://pokeapi.co/api/v2/pokemon/1
