@@ -12,3 +12,9 @@ GET https://pokeapi.co/api/v2/region/1
 
 ### Get pokemon by id
 GET https://pokeapi.co/api/v2/pokemon/1
+
+### Get pokedex
+GET https://pokeapi.co/api/v2/pokedex
+
+### Get species by id
+https://pokeapi.co/api/v2/pokemon-species/1/
