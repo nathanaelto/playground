@@ -27,5 +27,6 @@ Données à récupérer :
 - [NestJs](https://docs.nestjs.com/)
 - [Nest commander](https://docs.nestjs.com/recipes/nest-commander)
 - [OpenAPI](https://docs.nestjs.com/openapi/introduction)
+- [Axios & Http Module](https://docs.nestjs.com/techniques/http-module)
 
 > `https://pokeapi.co/api/v2/pokemon-species/{PokemonId}`
